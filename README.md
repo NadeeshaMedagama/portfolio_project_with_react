@@ -16,6 +16,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 - **Interactive Elements**: Smooth animations and transitions
 - **SEO Friendly**: Proper meta tags and semantic HTML
 
+---
 ## Technologies
 
 - **Frontend**: React 18
@@ -24,6 +25,12 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 - **Build Tool**: Vite
 - **Version Control**: Git
 
+---
+## Live Hosted Link
+
+🌐[View Live Portfolio]()
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -52,6 +59,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 
+---
 ## Customization 
 
 ### To customize this portfolio:
@@ -78,15 +86,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+---
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-License
+---
+## License
 This project is licensed under the **MIT License** - see the LICENSE file for details.
 
+---
 ## Contact
 ### Nadeesha Medagama
 [nadeeshamedagama@gmail.com](nadeeshamedagama@gmail.com)
