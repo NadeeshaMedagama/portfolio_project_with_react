@@ -24,27 +24,6 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 - **Build Tool**: Vite
 - **Version Control**: Git
 
-## Project Structure
-
-portfolio/
-├── public/ # Static files
-| ├── assets/ # Images, icons, fonts
-├── src/
-│ ├── components/ # Reusable components
-│ ├── constants/ # Constant data
-│ ├── hooks/ # Custom hooks
-│ ├── pages/ # Page components
-│ ├── styles/ # Global styles
-│ ├── types/ # TypeScript interfaces/types
-│ ├── utils/ # Utility functions
-│ ├── App.tsx # Main App component
-│ └── main.tsx # Entry point
-├── .gitignore
-├── package.json
-├── tsconfig.json
-├── tailwind.config.js
-└── vite.config.ts
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
