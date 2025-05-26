@@ -1,8 +1,10 @@
 import React, { useRef, useState } from 'react';
-import { FiSend, FiUser, FiMail, FiMessageSquare } from 'react-icons/fi';
+import { FiSend, FiUser, FiMail, FiMessageSquare, FiPhone, FiMapPin } from 'react-icons/fi';
 import emailjs from '@emailjs/browser';
 import { useFormik } from 'formik';
 import * as Yup from 'yup';
+
+emailjs.init("NjYMfOZ52dnee_Ffw");
 
 const ContactSchema = Yup.object().shape({
     name: Yup.string().required('Name is required'),
@@ -67,12 +69,16 @@ export const ContactForm = () => {
 
                             <div className="space-y-4">
                                 <div className="flex items-center">
-                                    <FiMail className="mr-4" />
-                                    <span>your.email@example.com</span>
+                                    <FiMail className="mr-4"/>
+                                    <span>nadeeshamedagama@gmail.com</span>
                                 </div>
                                 <div className="flex items-center">
-                                    <FiUser className="mr-4" />
-                                    <span>Your Location</span>
+                                    <FiMapPin className="mr-4"/>
+                                    <span>Bandaragama, Sri Lanka</span>
+                                </div>
+                                <div className="flex items-center">
+                                    <FiPhone className="mr-4"/>
+                                    <span>+94 76 640 0393</span>
                                 </div>
                             </div>
                         </div>
