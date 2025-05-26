@@ -1,13 +1,13 @@
 export const Skills = () => {
     const skills = [
-        { name: 'HTML5', level: 95 },
-        { name: 'CSS3/Tailwind', level: 90 },
         { name: 'JavaScript', level: 85 },
-        { name: 'TypeScript', level: 80 },
+        { name: 'Java', level: 80 },
+        { name: 'CI/CD Pipelines', level: 80 },
+        { name: 'CSS3/Tailwind', level: 80 },
         { name: 'React', level: 85 },
-        { name: 'Node.js', level: 75 },
-        { name: 'UI/UX Design', level: 70 },
-        { name: 'Git', level: 80 }
+        { name: 'Cloud Platforms', level: 80 },
+        { name: 'Containerization', level: 85 },
+        { name: 'Version Control', level: 80 }
     ];
 
     return (
