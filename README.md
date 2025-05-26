@@ -90,6 +90,9 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 ## Contact
 ### Nadeesha Medagama
 [nadeeshamedagama@gmail.com](nadeeshamedagama@gmail.com) 
+
 [My Website]() 
+
 [LinkedIn Profile](https://www.linkedin.com/in/nadeesha-medagama-5aa827287/) 
+
 [GitHub Profile](https://github.com/NadeeshaMedagama) 
