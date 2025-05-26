@@ -35,6 +35,27 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm (v8 or higher) or yarn
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio
+
+3. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   
 ## Available Scripts
 
 In the project directory, you can run:
@@ -82,7 +103,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+```
+npm run eject
+```
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
