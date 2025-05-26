@@ -3,7 +3,7 @@ export const Skills = () => {
         { name: 'JavaScript', level: 85 },
         { name: 'Java', level: 80 },
         { name: 'CI/CD Pipelines', level: 80 },
-        { name: 'CSS3/Tailwind', level: 80 },
+        { name: 'Python', level: 80 },
         { name: 'React', level: 85 },
         { name: 'Cloud Platforms', level: 80 },
         { name: 'Containerization', level: 85 },
