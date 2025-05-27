@@ -28,7 +28,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 ---
 ## Live Hosted Link
 
-🌐[View Live Portfolio]()
+🌐[View Live Portfolio](https://portfolio-project-with-react-nadeesha.netlify.app/)
 
 ---
 # Getting Started with Create React App
