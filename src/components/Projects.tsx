@@ -25,7 +25,7 @@ const projects: Project[] = [
         description: 'Real-time weather information with 5-day forecast and location-based services.',
         tags: ['React Native CLI ', 'TypeScript ', 'AsyncStorage'],
         imageUrl: '/assets/images/img_1.png',
-        demoUrl: '#',
+        demoUrl: 'https://habit-tracker-mobile-app-demo-video.netlify.app/',
         codeUrl: 'https://github.com/NadeeshaMedagama/HabitTracker_mobile_application_with_react-native.git'
     }
 ];
