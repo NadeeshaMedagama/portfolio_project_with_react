@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa';
+import {FaGithub, FaLinkedin, FaTwitter, FaFacebook} from 'react-icons/fa';
 import React from "react";
 
 export const Footer = () => {
@@ -7,13 +7,13 @@ export const Footer = () => {
             <div className="container mx-auto px-6">
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <div className="mb-6 md:mb-0">
-                        <h3 className="text-2xl font-bold mb-2">YourName</h3>
+                        <h3 className="text-2xl font-bold mb-2">Nadeesha Medagama</h3>
                         <p className="text-gray-400">Creating digital experiences that matter</p>
                     </div>
 
                     <div className="flex space-x-6">
                         <a
-                            href="https://github.com/yourusername"
+                            href="https://github.com/NadeeshaMedagama"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 hover:text-white transition-colors"
@@ -22,7 +22,7 @@ export const Footer = () => {
                             <FaGithub className="w-6 h-6" />
                         </a>
                         <a
-                            href="https://linkedin.com/in/yourusername"
+                            href="https://www.linkedin.com/in/nadeesha-medagama-5aa827287/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 hover:text-white transition-colors"
@@ -31,7 +31,7 @@ export const Footer = () => {
                             <FaLinkedin className="w-6 h-6" />
                         </a>
                         <a
-                            href="https://twitter.com/yourusername"
+                            href="https://x.com/NadeeshaMe36209"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 hover:text-white transition-colors"
@@ -40,19 +40,19 @@ export const Footer = () => {
                             <FaTwitter className="w-6 h-6" />
                         </a>
                         <a
-                            href="https://instagram.com/yourusername"
+                            href="https://web.facebook.com/nadeesha.medagama"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 hover:text-white transition-colors"
-                            aria-label="Instagram"
+                            aria-label="Facebook"
                         >
-                            <FaInstagram className="w-6 h-6" />
+                            <FaFacebook className="w-6 h-6" />
                         </a>
                     </div>
                 </div>
 
                 <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                    <p>&copy; {new Date().getFullYear()} YourName. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Nadeesha Medagama. All rights reserved.</p>
                 </div>
             </div>
         </footer>
