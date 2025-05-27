@@ -5,28 +5,28 @@ const projects: Project[] = [
         id: 1,
         title: 'E-commerce Platform',
         description: 'A full-featured online store with product listings, cart functionality, and secure checkout.',
-        tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-        imageUrl: '/project1.jpg',
+        tags: ['HTML', 'CSS', 'PHP', 'MySQL'],
+        imageUrl: './assets/images/flowersales.png',
         demoUrl: '#',
-        codeUrl: '#'
+        codeUrl: 'https://github.com/NadeeshaMedagama/kln_php_project_floraVista.git'
     },
     {
         id: 2,
-        title: 'Task Management App',
-        description: 'A productivity application for organizing tasks with drag-and-drop functionality and team collaboration.',
-        tags: ['TypeScript', 'React', 'Firebase', 'Tailwind CSS'],
-        imageUrl: '/project2.jpg',
-        demoUrl: '#',
-        codeUrl: '#'
+        title: 'CI/CD with Jenkins',
+        description: 'Integrated Jenkins with Version Control Systems to Streamline the Development.',
+        tags: ['Jenkins', 'AWS', 'Shell Scripting', 'CI/CD'],
+        imageUrl: '/assets/images/img.png',
+        demoUrl: 'https://www.linkedin.com/posts/nadeesha-medagama-5aa827287_aws-ec2-jenkins-activity-7324357455994388480-SZuU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW2JJIBZi47mjvLbuK6oM9URnVIAyLG0Xg',
+        codeUrl: 'https://www.linkedin.com/posts/nadeesha-medagama-5aa827287_aws-ec2-jenkins-activity-7324357455994388480-SZuU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW2JJIBZi47mjvLbuK6oM9URnVIAyLG0Xg'
     },
     {
         id: 3,
-        title: 'Weather Dashboard',
+        title: 'Habit Tracker Mobile App',
         description: 'Real-time weather information with 5-day forecast and location-based services.',
-        tags: ['JavaScript', 'API Integration', 'CSS3'],
-        imageUrl: '/project3.jpg',
+        tags: ['React Native CLI ', 'TypeScript ', 'AsyncStorage'],
+        imageUrl: '/assets/images/img_1.png',
         demoUrl: '#',
-        codeUrl: '#'
+        codeUrl: 'https://github.com/NadeeshaMedagama/HabitTracker_mobile_application_with_react-native.git'
     }
 ];
 
