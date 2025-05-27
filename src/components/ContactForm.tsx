@@ -33,7 +33,7 @@ export const ContactForm = () => {
 
                 // Replace with your EmailJS service ID, template ID, and public key
                 await emailjs.sendForm(
-                    'service_qexhaaw ',
+                    'service_qexhaaw',
                     'template_r6zqa5z',
                     formRef.current,
                     'NjYMfOZ52dnee_Ffw'
